@@ -1,3 +1,8 @@
+# Julia
+Implement some code examples from Practical Statistics for Data Sciensts in Julia. All other folders are unchanged and contain forked folders from the original repository, which has Python and R implementations.
+
+
+# Original Readme below
 ![Book cover](/images/cover-small.jpg)
 
 # Code repository
